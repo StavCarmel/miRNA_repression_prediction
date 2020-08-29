@@ -1,5 +1,5 @@
 # miRNA_repression_prediction
-In this project I predicted gene's repressions due to miRNA (micro-RNA) binding 
+In this project I used machile learning tools in order to predicted gene's repressions due to miRNA (micro-RNA) binding 
 
 Functions:
 Challenge_main - the main script that calls all the functions and creates the model.
